@@ -1,4 +1,10 @@
-## Go Ethereum
+## Go Ethereum with faulty nodes implementation
+
+
+**NOTE:** *This is a fork from https://github.com/getamis/go-ethereum.
+Specifically we have forked a geth version of IBFT which includes
+the implementation of different types of faulty nodes. This client
+will be used for testing purposes in the Alastria Platform Team.*
 
 Official golang implementation of the Ethereum protocol.
 
